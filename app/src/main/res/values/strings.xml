@@ -1,0 +1,210 @@
+<resources>
+    <string name="app_name">MBTI Personality</string>
+    <string name="detail_name">Personality Details</string>
+
+    <string name="personalities_name">Personality Name</string>
+    <string name="personalities_type">Personality Type</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="personality_details">Personality Details</string>
+    <string name="population">Population</string>
+    <string name="strengths">Strengths</string>
+    <string name="weaknesses">Weaknesses</string>
+    <string name="famous_person">Famous Person</string>
+    <string name="share_this_personality">Share This Personality</string>
+    <string name="rivonny_wulandari">Rivonny Wulandari</string>
+    <string name="rivonnywulandari19_gmail_com">rivonnywulandari19@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>INTJ</item>
+        <item>INTP</item>
+        <item>ENTJ</item>
+        <item>ENTP</item>
+        <item>INFJ</item>
+        <item>INFP</item>
+        <item>ENFJ</item>
+        <item>ENFP</item>
+        <item>ISTJ</item>
+        <item>ISFJ</item>
+        <item>ESTJ</item>
+        <item>ESFJ</item>
+        <item>ISTP</item>
+        <item>ISFP</item>
+        <item>ESTP</item>
+        <item>ESFP</item>
+    </string-array>
+
+    <string-array name="data_type">
+        <item>Architect</item>
+        <item>Logician</item>
+        <item>Commander</item>
+        <item>Debater</item>
+        <item>Advocate</item>
+        <item>Mediator</item>
+        <item>Protagonist</item>
+        <item>Campaigner</item>
+        <item>Logistician</item>
+        <item>Defender</item>
+        <item>Executive</item>
+        <item>Consul</item>
+        <item>Virtuoso</item>
+        <item>Adventurer</item>
+        <item>Entrepreneur</item>
+        <item>Entertainer</item>
+    </string-array>
+
+    <string-array name="data_frequencyMales">
+        <item>Male: 2%</item> <!-- INTJ -->
+        <item>Male: 3%</item> <!-- INTP -->
+        <item>Male: 1.8%</item> <!-- ENTJ -->
+        <item>Male: 3.2%</item> <!-- ENTP -->
+        <item>Male: 1.5%</item> <!-- INFJ -->
+        <item>Male: 4.4%</item> <!-- INFP -->
+        <item>Male: 2.5%</item> <!-- ENFJ -->
+        <item>Male: 8.1%</item> <!-- ENFP -->
+        <item>Male: 11.6%</item> <!-- ISTJ -->
+        <item>Male: 13.8%</item> <!-- ISFJ -->
+        <item>Male: 8.7%</item> <!-- ESTJ -->
+        <item>Male: 12%</item> <!-- ESFJ -->
+        <item>Male: 5.4%</item> <!-- ISTP -->
+        <item>Male: 8.8%</item> <!-- ISFP -->
+        <item>Male: 4.3%</item> <!-- ESTP -->
+        <item>Male: 8.5%</item> <!-- ESFP -->
+    </string-array>
+
+    <string-array name="data_frequencyFemales">
+        <item>Female: 1.8%</item> <!-- INTJ -->
+        <item>Female: 2.2%</item> <!-- INTP -->
+        <item>Female: 0.8%</item> <!-- ENTJ -->
+        <item>Female: 2.4%</item> <!-- ENTP -->
+        <item>Female: 1.3%</item> <!-- INFJ -->
+        <item>Female: 3.9%</item> <!-- INFP -->
+        <item>Female: 2.2%</item> <!-- ENFJ -->
+        <item>Female: 7.5%</item> <!-- ENFP -->
+        <item>Female: 10.9%</item> <!-- ISTJ -->
+        <item>Female: 13.1%</item> <!-- ISFJ -->
+        <item>Female: 8.2%</item> <!-- ESTJ -->
+        <item>Female: 11.5%</item> <!-- ESFJ -->
+        <item>Female: 4.9%</item> <!-- ISTP -->
+        <item>Female: 8.1%</item> <!-- ISFP -->
+        <item>Female: 3.9%</item> <!-- ESTP -->
+        <item>Female: 7.8%</item> <!-- ESFP -->
+    </string-array>
+
+    <string-array name="data_item">
+        <item>Introverted - Intuitive - Thinking - Judging</item>
+        <item>Introverted - Intuitive - Thinking - Perceiving</item>
+        <item>Extraverted - Intuitive - Thinking - Judging</item>
+        <item>Extraverted - Intuitive - Thinking - Perceiving</item>
+        <item>Introverted - Intuitive - Feeling - Judging</item>
+        <item>Introverted - Intuitive - Feeling - Perceiving</item>
+        <item>Extraverted - Intuitive - Feeling - Judging</item>
+        <item>Extraverted - Intuitive - Feeling - Perceiving</item>
+        <item>Introverted - Sensing - Thinking - Judging</item>
+        <item>Introverted - Sensing - Feeling - Judging</item>
+        <item>Extraverted - Sensing - Thinking - Judging</item>
+        <item>Extraverted - Sensing - Feeling - Judging</item>
+        <item>Introverted - Sensing - Thinking - Perceiving</item>
+        <item>Introverted - Sensing - Feeling - Perceiving</item>
+        <item>Extraverted - Sensing - Thinking - Perceiving</item>
+        <item>Extraverted - Sensing - Feeling - Perceiving</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Highly imaginative and strategic thinkers, INTJs excel in roles that require precision and foresight, such as scientists, engineers, and IT professionals. They are known for their determination and ability to turn theories into clear plans of action. INTJs often prefer working independently and value knowledge and competence.</item>
+        <item>Known for their innovative spirit and unquenchable thirst for knowledge, INTPs thrive in fields like research, philosophy, and writing. They enjoy exploring theoretical possibilities and are highly analytical and objective. INTPs often approach problems with a logical and detached perspective.</item>
+        <item>As bold and strong-willed leaders, ENTJs are always finding a way or making one. They excel in executive roles, business, and politics. ENTJs are strategic and efficient, often taking charge and driving projects forward with their decisive and organized approach.</item>
+        <item>Smart and curious, ENTPs love intellectual challenges and excel as entrepreneurs, consultants, and lawyers. They are quick-witted and enjoy engaging in debates and discussions. ENTPs are known for their resourcefulness and ability to think on their feet.</item>
+        <item>Quiet and mystical, yet very inspiring, INFJs are idealists who excel in counseling, writing, and social work. They are deeply empathetic and have a strong sense of intuition, often understanding others feelings and needs. INFJs are driven by their values and desire to make a positive impact on the world.</item>
+        <item>Poetic, kind, and altruistic, INFPs are always eager to help a good cause. They thrive as writers, counselors, and social workers. INFPs are guided by their strong inner values and seek to create harmony and understanding in their environments.</item>
+        <item>Charismatic and inspiring, ENFJs are natural leaders who mesmerize their listeners. They excel in teaching, counseling, and politics. ENFJs are warm, empathetic, and supportive, often putting the needs of others before their own.</item>
+        <item>Enthusiastic, creative, and sociable, ENFPs are free spirits who can always find a reason to smile. They thrive in the arts, writing, and teaching. ENFPs are known for their infectious energy and optimism, often inspiring those around them with their zest for life.</item>
+        <item>Practical and reliable, ISTJs are fact-minded individuals who excel in accounting, law enforcement, and administrative roles. They are known for their strong sense of duty and responsibility, often taking their commitments very seriously. ISTJs value order and stability, and they are meticulous in their work.</item>
+        <item>Dedicated and warm, ISFJs are protectors always ready to defend their loved ones. They thrive in nursing, teaching, and community service. ISFJs are deeply compassionate and empathetic, often going out of their way to help others.</item>
+        <item>Excellent administrators, ESTJs are unsurpassed at managing things or people. They excel in management, law enforcement, and business. ESTJs are organized, practical, and decisive, often taking a no-nonsense approach to problem-solving.</item>
+        <item>Caring and social, ESFJs are popular people always eager to help. They thrive in teaching, health care, and social work. ESFJs are warm and friendly, often making others feel welcome and valued.</item>
+        <item>Bold and practical experimenters, ISTPs are masters of all kinds of tools. They excel in mechanics, engineering, and carpentry. ISTPs are highly resourceful and enjoy working with their hands, often finding practical solutions to complex problems.</item>
+        <item>Flexible and charming artists, ISFPs are always ready to explore and experience something new. They thrive in the arts, design, and counseling. ISFPs are deeply in tune with their senses and surroundings, often finding beauty and inspiration in the world around them.</item>
+        <item>Smart, energetic, and very perceptive, ESTPs truly enjoy living on the edge. They excel in sales, entrepreneurship, and athletics. ESTPs are highly observant and quick to respond to their environment, often making decisions on the fly and adapting to new situations with ease.</item>
+        <item>Spontaneous, energetic, and enthusiastic entertainers, ESFPs make life exciting. They thrive in acting, music, and event planning. ESFPs are the life of the party, often bringing joy and energy to any situation.</item>
+    </string-array>
+
+
+    <string-array name="data_strengths">
+        <item>Rational, Informed, Independent</item> <!-- INTJ -->
+        <item>Innovative, Analytical, Objective</item> <!-- INTP -->
+        <item>Efficient, Energetic, Self-Confident</item> <!-- ENTJ -->
+        <item>Knowledgeable, Quick-Witted, Charismatic</item> <!-- ENTP -->
+        <item>Creative, Insightful, Inspiring</item> <!-- INFJ -->
+        <item>Empathetic, Artistic, Open-Minded</item> <!-- INFP -->
+        <item>Charismatic, Altruistic, Authentic</item> <!-- ENFJ -->
+        <item>Curious, Enthusiastic, Independent</item> <!-- ENFP -->
+        <item>Responsible, Orderly, Practical</item> <!-- ISTJ -->
+        <item>Supportive, Reliable, Patient</item> <!-- ISFJ -->
+        <item>Diligent, Dedicated, Strong-Willed</item> <!-- ESTJ -->
+        <item>Friendly, Reliable, Conscientious</item> <!-- ESFJ -->
+        <item>Adventurous, Creative, Bold</item> <!-- ISTP -->
+        <item>Artistic, Charming, Curious</item> <!-- ISFP -->
+        <item>Energetic, Observant, Straightforward</item> <!-- ESTP -->
+        <item>Entertaining, Spontaneous, Friendly</item> <!-- ESFP -->
+    </string-array>
+
+    <string-array name="data_weaknesses">
+        <item>Arrogant, Judgmental, Overly Analytical</item> <!-- INTJ -->
+        <item>Absent-Minded, Overly Critical, Indecisive</item> <!-- INTP -->
+        <item>Stubborn, Dominant, Impatient</item> <!-- ENTJ -->
+        <item>Argumentative, Insensitive, Intolerant</item> <!-- ENTP -->
+        <item>Sensitive, Perfectionistic, Reserved</item> <!-- INFJ -->
+        <item>Idealistic, Self-Critical, Impractical</item> <!-- INFP -->
+        <item>Overbearing, Uncertain, People-Pleasing</item> <!-- ENFJ -->
+        <item>Overly Optimistic, Disorganized, Unfocused</item> <!-- ENFP -->
+        <item>Stubborn, Critical, Insensitive</item> <!-- ISTJ -->
+        <item>Overly Humble, Reluctant, Self-Sacrificing</item> <!-- ISFJ -->
+        <item>Inflexible, Controlling, Blunt</item> <!-- ESTJ -->
+        <item>Needy, Overly Emotional, Conflict-Avoiding</item> <!-- ESFJ -->
+        <item>Impulsive, Risk-Prone, Private</item> <!-- ISTP -->
+        <item>Unpredictable, Easily Stressed, Competitive</item> <!-- ISFP -->
+        <item>Impulsive, Defiant, Unstructured</item> <!-- ESTP -->
+        <item>Superficial, Easily Bored, Restless</item> <!-- ESFP -->
+    </string-array>
+
+    <string-array name="data_famousPerson">
+        <item>Elon Musk, Nikola Tesla</item> <!-- INTJ -->
+        <item>Albert Einstein, Bill Gates</item> <!-- INTP -->
+        <item>Steve Jobs, Margaret Thatcher</item> <!-- ENTJ -->
+        <item>Thomas Edison, Mark Twain</item> <!-- ENTP -->
+        <item>Mahatma Gandhi, Nelson Mandela</item> <!-- INFJ -->
+        <item>J.R.R. Tolkien, Princess Diana</item> <!-- INFP -->
+        <item>Martin Luther King Jr., Oprah Winfrey</item> <!-- ENFJ -->
+        <item>Walt Disney, Robin Williams</item> <!-- ENFP -->
+        <item>George Washington, Angela Merkel</item> <!-- ISTJ -->
+        <item>Mother Teresa, Queen Elizabeth II</item> <!-- ISFJ -->
+        <item>John D. Rockefeller, Judge Judy</item> <!-- ESTJ -->
+        <item>Bill Clinton, Taylor Swift</item> <!-- ESFJ -->
+        <item>Clint Eastwood, Bruce Lee</item> <!-- ISTP -->
+        <item>Marilyn Monroe, Bob Dylan</item> <!-- ISFP -->
+        <item>Donald Trump, Madonna</item> <!-- ESTP -->
+        <item>Marilyn Monroe, Elvis Presley</item> <!-- ESFP -->
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/intj</item>
+        <item>@drawable/intp</item>
+        <item>@drawable/entj</item>
+        <item>@drawable/entp</item>
+        <item>@drawable/infj</item>
+        <item>@drawable/infp</item>
+        <item>@drawable/enfj</item>
+        <item>@drawable/enfp</item>
+        <item>@drawable/istj</item>
+        <item>@drawable/isfj</item>
+        <item>@drawable/estj</item>
+        <item>@drawable/esfj</item>
+        <item>@drawable/istp</item>
+        <item>@drawable/isfp</item>
+        <item>@drawable/estp</item>
+        <item>@drawable/esfp</item>
+    </integer-array>
+</resources>
